@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love playing chess and reading books in my free time.
 Hi, I'm Sumair Malik, a web developer with a passion for creating responsive and user-friendly websites.
 
-👀 I'm interested in web development, design, user experience, and e-commerce projects. 🌱 I'm currently learning PHP (Laravel) and improving my skills in HTML, CSS, BOOTSTRAP, JQuery, JavaScript, and e-commerce platforms such as WooCommerce and Shopify. 💞️ I'm looking to collaborate on web development projects, contribute to open-source projects, and work on e-commerce projects. 📫 You can reach me on LinkedIn or by email at sumairmalik123@gmail.com. 😄 Pronouns: He/Him ⚡ Fun fact: I love playing chess and reading books in my free time.
+👀 I'm interested in web development, design, user experience, and e-commerce projects. 🌱 I'm currently learning PHP (Laravel) and improving my skills in HTML, CSS, BOOTSTRAP, JQuery, JavaScript, and e-commerce platforms such as WooCommerce and Shopify. 💞️ I'm looking to collaborate on web development projects, contribute to open-source projects, and work on e-commerce projects. 📫 You can reach me on LinkedIn or by email at sumairdeveloper0@gmail.com. 😄 Pronouns: He/Him ⚡ Fun fact: I love playing chess and reading books in my free time.
 
 As a web developer, I have experience working with various web technologies such as PHP (Laravel), MySQL, HTML, CSS, BOOTSTRAP, JQuery, JavaScript, and e-commerce platforms such as WooCommerce and Shopify. I have a strong understanding of web development principles and best practices, and I'm always looking to learn new skills and stay up-to-date with the latest trends in web development.
 
